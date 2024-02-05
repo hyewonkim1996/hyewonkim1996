@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=😄Hyewon%20GitHub👋&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=😄Hyewon%20GitHub👋&fontSize=50" />
 </div>
 <h3 align="center">✨About Me✨</h3>
 <p align="center"> 성실함과 끈기는 기본! </p>
