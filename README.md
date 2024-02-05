@@ -1,8 +1,9 @@
-<div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=😄Hyewon%20GitHub👋&fontSize=50" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=😄Hyewon%20GitHub👋&fontSize=50" />
 
-
+<h3 align="center">✨About Me✨</h3>
+<p align="center"> 성실함과 끈기는 기본! </p>
+<p align="center"> 외항사 승무원 경험으로 증명된 영어 실력과 커뮤니케이션 능력은 덤! </p>
+<p align="center"> 흐름을 알고 Why를 생각하며 코드를 작성하는 개발자 </p>
 <!--
 **hyewonkim1996/hyewonkim1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
