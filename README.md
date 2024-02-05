@@ -12,8 +12,12 @@
 
 ## 📚 사용해본 기술 📚
 > **☕JAVA**
-&nbsp;
-🔗 [새싹청소년교육복지센터](https://github.com/hyewonkim1996/edu_project.git)
+> 🔗 [새싹청소년교육복지센터](https://github.com/hyewonkim1996/edu_project.git)
+>
+```
+객체지향 프로그래밍의 추상화, 상속, 캡슐화, 다형성에 대해 잘 이해하고 있습니다.
+인터페이스를 사용해본 경험이 있으며, Oracle과 연결하여 CRUD를 구현해본 경험이 있습니다.
+```
 
 <!--
 - 🔭 I’m currently working on ...
