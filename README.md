@@ -50,7 +50,7 @@ MyBatis 프레임워크를 통해 DB와 연결해 CRUD 사용 가능
 &nbsp;
 > **5) 🟨JavaScript / 🟧HTML / 🟦CSS**
 
-🔗 [새싹청소년교육복지센터](https://github.com/hyewonkim1996/edu_project.git)
+🔗 [포트리스](https://github.com/0gyunkim/fortress.git)
 
 ```
 바닐라 자바스크립트에서 캔버스, 이벤트 핸들러, 람다식 사용
