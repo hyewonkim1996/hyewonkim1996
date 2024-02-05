@@ -11,7 +11,8 @@
 &nbsp;
 
 ## 📚 사용해본 기술 📚
-> ** JAVA**
+> **☕JAVA**
+🔗 [새싹청소년교육복지센터](https://github.com/hyewonkim1996/edu_project.git)
 
 <!--
 - 🔭 I’m currently working on ...
