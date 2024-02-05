@@ -4,7 +4,8 @@
 <h3 align="center">✨About Me✨</h3>
 <p align="center"> 성실함과 끈기는 기본! </p>
 <p align="center"> 외항사 승무원 경험으로 증명된 영어 실력과 커뮤니케이션 능력은 덤! </p>
-<p align="center"> 흐름을 알고 Why를 생각하며 코드를 작성하는 개발자 </p>
+<p align="center"> 🙅복사, 붙여넣기로 따라하는 코드는 지양하고🙅 </p>
+<p align="center"> 🙆‍♀️흐름을 이해하고 Why를 생각하는 코드를 지향하는 개발자🙆‍♀️ </p>
 <!--
 **hyewonkim1996/hyewonkim1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
