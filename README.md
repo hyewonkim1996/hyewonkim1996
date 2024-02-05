@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=😄Hyewon%20GitHub👋&fontSize=50" />
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=😄Hyewon%20GitHub👋&fontSize=50" />
+</div>
 <h3 align="center">✨About Me✨</h3>
 <p align="center"> 성실함과 끈기는 기본! </p>
 <p align="center"> 외항사 승무원 경험으로 증명된 영어 실력과 커뮤니케이션 능력은 덤! </p>
