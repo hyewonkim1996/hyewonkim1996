@@ -11,22 +11,61 @@
 &nbsp;
 
 ## 📚 사용해본 기술 📚
-> 1) ☕JAVA
+> **1) ☕JAVA**
 
 🔗 [새싹청소년교육복지센터](https://github.com/hyewonkim1996/edu_project.git)
 
 ```
-객체지향 프로그래밍의 추상화, 상속, 캡슐화, 다형성에 대해 잘 이해하고 있습니다.
-인터페이스를 사용해본 경험이 있으며, Oracle과 연결하여 CRUD를 구현해본 경험이 있습니다.
+객체지향 프로그래밍 추상화, 상속, 캡슐화, 다형성 이해
+인터페이스를 사용해본 경험이 있으며, Oracle과 연결하여 CRUD를 구현할 수 있음
 ```
 
-> 2) 🌐전자정부 표준프레임워크
+> **2) 🌐전자정부 표준프레임워크**
 
 🔗 [새싹청소년교육복지센터](https://github.com/hyewonkim1996/edu_project.git)
 
 ```
-전자정부 표준프레임워크의 형식과 구조를 이해하고 있습니다.
-DB 연동, Spring Security 연동, REST API 설정을 해본 경험이 있습니다.
+전자정부 표준프레임워크의 형식과 구조 이해
+DB 연동, Spring Security 연동, REST API 설정을 해낸 경험이 있음
+```
+
+> **3) 🛢️Oracle**
+
+🔗 [새싹청소년교육복지센터](https://github.com/hyewonkim1996/edu_project.git)
+
+```
+기본적인 CRUD 외에 조인, 뷰, 트리거, 프로시저 구현 경험 있음
+```
+
+> **4) 🌱 Spring Framework**
+
+🔗 [새싹청소년교육복지센터](https://github.com/hyewonkim1996/edu_project.git)
+
+```
+Spring legacy project를 실습하며 웹 서버 구조와 흐름에 대해 배움
+IoC/DI와 POJO의 개념에 대해 이해
+MVC2 패턴을 활용해 컨트롤러와 DAO, 서비스, 뷰에 대한 로직을 구현
+MyBatis 프레임워크를 통해 DB와 연결해 CRUD 사용 가능
+```
+
+> **5) 🟨JavaScript / 🟧HTML / 🟦CSS**
+
+🔗 [새싹청소년교육복지센터](https://github.com/hyewonkim1996/edu_project.git)
+
+```
+바닐라 자바스크립트에서 캔버스, 이벤트 핸들러, 람다식 사용
+HTML에서 시멘틱 태그로 웹 페이지 구성 및 CSS로 스타일을 입혀 웹 페이지 디자인
+```
+
+> **6) 📥open API**
+
+🔗 [새싹청소년교육복지센터](https://github.com/hyewonkim1996/edu_project.git)
+
+```
+- 카카오 로그인 API
+기존 회원은 동기 방식, 카카오 회원은 비동기 방식으로 로그인 기능 구현
+
+- 카카오 지도 API
 ```
 <!--
 - 🔭 I’m currently working on ...
