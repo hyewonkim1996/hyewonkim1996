@@ -14,9 +14,10 @@
 > **1) ☕JAVA**
 
 🔗 [새싹청소년교육복지센터](https://github.com/hyewonkim1996/edu_project.git)
+🔗 [나는 개준생이다](https://github.com/hyewonkim1996/Java-Swing-Project.git)
 
 ```
-객체지향 프로그래밍 추상화, 상속, 캡슐화, 다형성 이해
+객체지향 프로그래밍 추상화, 상속, 캡슐화, 다형성 프로젝트 적용 및 이해
 인터페이스를 사용해본 경험이 있으며, Oracle과 연결하여 CRUD를 구현할 수 있음
 ```
 &nbsp;
