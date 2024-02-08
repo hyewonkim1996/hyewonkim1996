@@ -33,7 +33,7 @@ DB 연동, Spring Security 연동, REST API 설정을 해낸 경험이 있음
 &nbsp;
 > **3) 🛢️Oracle**
 
-🔗 [새싹청소년교육복지센터](https://github.com/hyewonkim1996/edu_project.git)
+🔗 [에어 프로젝트](https://github.com/hyewonkim1996/Oracle-Project.git)
 
 ```
 기본적인 CRUD 외에 조인, 뷰, 트리거, 프로시저 구현 경험 있음
