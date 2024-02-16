@@ -3,7 +3,7 @@
 </div>
 <h3 align="center">✨About Me✨</h3>
 <p align="center"> 성실함과 끈기는 기본! </p>
-<p align="center"> 외항사 승무원 경험으로 증명된 영어 실력과 커뮤니케이션 능력은 덤! </p>
+<p align="center"> 외항사 승무원 경험으로 증명된 영어 실력과 커뮤니케이션 능력! </p>
 <p align="center"> ❌무지성으로 따라 치는 코드는 지양하고❌ </p>
 <p align="center"> ⭕흐름을 이해하고 Why를 생각하는 코드를 지향하는 개발자⭕ </p>
 &nbsp;
@@ -66,8 +66,6 @@ HTML에서 시멘틱 태그로 웹 페이지 구성 및 CSS로 스타일을 입�
 ```
 - 카카오 로그인 API
 기존 회원은 동기 방식, 카카오 회원은 비동기 방식으로 로그인 기능 구현
-
-- 카카오 지도 API
 ```
 <!--
 - 🔭 I’m currently working on ...
