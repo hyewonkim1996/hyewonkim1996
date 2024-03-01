@@ -3,8 +3,8 @@
 </div>
 <h3 align="center">✨About Me✨</h3>
 <p align="center"> 성실함과 끈기는 기본! </p>
-<p align="center"> 외항사 승무원 경험으로 증명된 영어 실력과 커뮤니케이션 능력! </p>
-<p align="center"> ❌무지성으로 따라 치는 코드는 지양하고❌ </p>
+<p align="center"> 외항사 승무원 경험으로 증명된 팀워크와 커뮤니케이션 능력! </p>
+<p align="center"> ⬆도전하며 성장하는 개발자⬆ </p>
 <p align="center"> ⭕흐름을 이해하고 Why를 생각하는 코드를 지향하는 개발자⭕ </p>
 &nbsp;
 &nbsp;
